@@ -1,0 +1,15 @@
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\bin\Debug\net6.0\CollectionTwo.exe
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\bin\Debug\net6.0\CollectionTwo.deps.json
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\bin\Debug\net6.0\CollectionTwo.runtimeconfig.json
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\bin\Debug\net6.0\CollectionTwo.dll
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\bin\Debug\net6.0\CollectionTwo.pdb
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.csproj.AssemblyReference.cache
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.AssemblyInfoInputs.cache
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.AssemblyInfo.cs
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.csproj.CoreCompileInputs.cache
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.dll
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\refint\CollectionTwo.dll
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.pdb
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\CollectionTwo.genruntimeconfig.cache
+C:\Users\Aibar Arysbai\source\repos\CollectionTwo\CollectionTwo\obj\Debug\net6.0\ref\CollectionTwo.dll
